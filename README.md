@@ -1,1 +1,1 @@
-# DEA05-E2E-Kafka_Streaming-Pipeline
+# AWSDE01-E2E-Kafka_Streaming-Pipeline

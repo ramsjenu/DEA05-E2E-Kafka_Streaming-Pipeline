@@ -1,0 +1,4 @@
+order_id,order_date,order_amount,customer_id
+1,2024-10-10,250,12
+2,2024-12-11,600,25
+3,2025-01-15,320,38
